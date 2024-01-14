@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1250px;
+  background-color: grey;
+  margin: 0px 0px 0px 120px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+ul {
+  list-style-type: none;
+  gap: 30px;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: aqua;
+}
